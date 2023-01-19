@@ -1,0 +1,71 @@
+@media only screen and (max-width: 1920px){}
+
+@media only screen and (max-width: 1860px)
+{
+    .lgn_btn a, .pro_btn a{width: 120px !important;}
+}
+
+@media only screen and (max-width: 1750px){}
+
+@media only screen and (max-width: 1650px){}
+
+@media only screen and (max-width: 1536px){}
+
+@media only screen and (max-width: 1440px){}
+
+@media only screen and (max-width: 1366px)
+{
+    .hm_hdr_mnu ul{text-align: right;}
+}
+
+@media only screen and (max-width: 1199px)
+{
+    .modal-content{width: 45%;}
+    .rhdr_right_lgn{padding-top: 6px;}
+    .jp_navi_right_btn_wrapper li{margin-left: 10px;}
+    .lgn_btn a, .pro_btn a{width: 100px !important;height: 40px !important;line-height: 40px !important;}
+
+    .hm_hdr_logo a figure img{width: 182px !important;}
+    .hm_hdr_logo a figure span{margin-left: 3px !important;font-size: 15px !important;}
+    .hdr_logo a figure{padding-top: 8px;}
+}
+
+@media only screen and (max-width: 991px)
+{
+    .rem_categ{display: none;}
+    .hdr_logo{top: 0 !important;}
+    .rheader_wrapper{padding-top: 20px !important;}
+    .rsp_hdr_logo{text-align: left;}
+    .hdr_logo a figure{padding-top: 0;}
+    .plan_price_div{margin: 20px 0;}
+    .nm_search_btn{padding: 0 20px;}
+}
+
+@media only screen and (max-width: 767px)
+{
+    .modal-content{width: 70%;}
+}
+
+@media only screen and (max-width: 640px)
+{
+    .hdr_logo a figure span{font-size: 14px;}
+}
+
+@media only screen and (max-width: 576px)
+{
+    .hdr_logo a figure span{margin-left: 3px;}
+}
+
+@media only screen and (max-width: 479px)
+{
+    .hdr_logo a figure img{width: 182px;}
+    .hdr_logo a figure span{font-size: 12px;}
+    .modal-content{width: 85%;}
+}
+
+@media only screen and (max-width: 400px)
+{
+    .hdr_logo a figure img{width: 138px;}
+    .hdr_logo a figure span{font-size: 10px;}
+    .modal-content{width: 90%;}
+}

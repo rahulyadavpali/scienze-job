@@ -1,0 +1,9 @@
+
+.image-preview{width: 180px;height: 180px;margin: 0 auto;border: 1px solid #6699ff;border-radius: 5px;padding: 10px;background-repeat: no-repeat;background-size: contain !important;}
+
+/* Admin-Cutome-Css */
+.main_divs{padding-bottom: 60px;background-color: #fff;}
+.contest_dropzone{margin: 20px;}
+.move_sbm_btn{position: absolute;bottom: 20px;right: 20px;}
+
+.make_scroll{overflow-y: scroll;height: 93vh !important;}
